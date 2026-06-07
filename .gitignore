@@ -1,0 +1,14 @@
+.DS_Store
+
+# Rime generated build output and local state.
+Rime/build/
+Rime/*.userdb/
+Rime/installation.yaml
+Rime/user.yaml
+Rime/sync/
+Rime/*.txt
+
+# Logs and temporary files.
+*.log
+*.tmp
+
